@@ -4,7 +4,7 @@
 
 // 1 - recebe um numero.
 // 2 - verificar se o numero é negativo, se for, já retorna.
-// 3 - se não for, transofrma-lo em negativo.
+// 3 - se não for, transforma-lo em negativo.
 // 4 - 5 = (-1)
 
 package kata
