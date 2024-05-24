@@ -1,7 +1,11 @@
 # Básico de Goland
 Repositório dedicado ao curso básico (introdutório) de Goland.
 
-![image](https://github.com/fariasangelica/basico-goland/assets/98922466/fe443ce5-41e5-4806-84d0-eed848264ca9)
+<img width="300" alt="image" src="https://github.com/fariasangelica/basico-goland/assets/98922466/65a8ab46-38e4-4d37-8b15-bf3411739634">
+
+# Instalação
+- Baixe e execute o instalador [Go](https://go.dev/dl/). 
+- Para confirmar se tudo está funcionando, abra um terminal e digite o seguinte: go version.
 
 ## O que estudei durante o curso:
  
@@ -13,13 +17,14 @@ Repositório dedicado ao curso básico (introdutório) de Goland.
   - [x] Tipos
   - [x] Variáveis e constantes
   - [x] Zero values
-  - [ ] Funções
-  - [ ] Arrays e slices
-  - [ ] Structs
-  - [ ] If/else
-  - [ ] Loops
-  - [ ] Exercícios
+  - [X] Funções
+  - [X] Arrays e slices
+  - [X] Structs
+  - [X] If/else
+  - [X] Loops
+  - [X] Exercícios
 
 ## Link para o curso:
-- [Curso introdutório](https://www.youtube.com/playlist?list=PLIIX-IKjIiwOpAr_kyvpxTVyvUoxXqGEQ)
+- [Curso introdutório](https://www.youtube.com/playlist?list=PLIIX-IKjIiwOpAr_kyvpxTVyvUoxXqGEQ).
+- Instrutora: Stephanie Cardoso.
 
