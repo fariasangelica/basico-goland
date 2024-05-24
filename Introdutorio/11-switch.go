@@ -25,6 +25,6 @@ case "bento":
 	fmt.Println("É um cachorro.")
 case "bob":
 	fmt.Println("É um personagem.")
-}
+   }
 
 }
